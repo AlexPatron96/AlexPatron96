@@ -15,7 +15,8 @@ const aboutMe = {
          css: ["Tailwind", "Bootstrap", "Material Design", "Bootswatch"]
       },
       backEnd: {
-         js: ["Node", "Express", "Nginx"],
+         js: ["Node", "Express"],
+server:[""Nginx""]
       },
       databases: ["Postgres", "mySQL"],
       mobile: ["Android"]
